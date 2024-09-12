@@ -1,0 +1,68 @@
+### **AWS Questions:**
+1. **How do you design a highly available and fault-tolerant architecture in AWS?**
+   This tests your knowledge of AWS services like Auto Scaling, Elastic Load Balancer (ELB), and Availability Zones.
+
+2. **Can you explain the difference between Amazon S3 and Amazon EBS, and when you would use each?**
+   Understanding different storage services is key in AWS.
+
+3. **What is the purpose of Amazon CloudWatch, and how do you use it in monitoring your AWS infrastructure?**
+   A common question focusing on monitoring and logging services in AWS.
+
+4. **How do you implement cross-region replication in AWS S3, and what are its use cases?**
+   Tests your understanding of S3 data replication and high availability.
+
+### **Infrastructure as Code (IaC) Questions:**
+5. **What is the main difference between Terraform and AWS CloudFormation, and when would you use one over the other?**
+   Evaluates your knowledge of IaC tools and their applications.
+
+6. **Can you describe the process of writing reusable and modular Terraform code?**
+   Focuses on creating scalable and reusable infrastructure code.
+
+7. **How would you manage secrets and sensitive data in Terraform or CloudFormation?**
+   Testing your knowledge of secure configuration in IaC.
+
+### **CI/CD Questions:**
+8. **What is the difference between Continuous Integration, Continuous Delivery, and Continuous Deployment?**
+   You will need to explain the stages of CI/CD pipelines.
+
+9. **How would you set up a CI/CD pipeline using Jenkins for deploying an application on AWS?**
+   Tests your practical knowledge of CI/CD tools integrated with AWS services.
+
+10. **How do you handle rollbacks in a CI/CD pipeline?**
+    A common challenge in deployments, where rollbacks ensure application stability.
+
+### **Containerization Questions:**
+11. **What are the key differences between Docker containers and virtual machines (VMs)?**
+    Evaluates your understanding of containerization versus traditional VMs.
+
+12. **How do you optimize Docker images to reduce size and improve build speed?**
+    Tests your practical experience in working with containers efficiently.
+
+### **Container Orchestration Questions:**
+13. **How do you set up a Kubernetes cluster on AWS using EKS (Elastic Kubernetes Service)?**
+    A question focusing on managing containerized applications using Kubernetes on AWS.
+
+14. **How would you handle auto-scaling in a Kubernetes cluster in AWS?**
+    This evaluates your understanding of scaling strategies within Kubernetes.
+
+### **Security and Compliance Questions:**
+15. **How do you ensure that your AWS resources are compliant with security best practices?**
+    Testing your knowledge of AWS Identity and Access Management (IAM), encryption, and other security measures.
+
+16. **What is AWS CloudTrail, and how do you use it for auditing and monitoring in AWS environments?**
+    CloudTrail is vital for security and compliance, and you'll need to explain its importance.
+
+### **Networking Question:**
+17. **What is a VPC in AWS, and how do you manage its subnets, security groups, and route tables?**
+    A common question that checks your knowledge of networking in AWS.
+
+### **Scripting Question:**
+18. **How would you use Python or Bash scripting to automate routine tasks in AWS?**
+    This tests your ability to write scripts for tasks like automating backups or launching resources.
+
+### **Behavioral Questions:**
+19. **Tell me about a time you faced a challenge while deploying an application in the cloud, and how did you resolve it?**
+    Focuses on problem-solving skills in cloud environments.
+
+20. **How do you manage working under pressure, especially when there's a critical issue in production?**
+    This tests your ability to stay calm and focused during stressful situations.
